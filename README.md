@@ -15,9 +15,14 @@ This project focuses on simulating common wireless network attacks and implement
 ### Tools Used
 
 -Kali Linux: Primary OS for penetration testing
+
 -Aircrack-ng: Suite for wireless network security testing
+
 -Wireshark: Network protocol analyzer
+
+
 -Hashcat: Password recovery tool
+
 -Router or Wi-Fi Adapter: To set up a test network
 
 - 
