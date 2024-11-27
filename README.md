@@ -7,9 +7,13 @@ This project focuses on simulating common wireless network attacks and implement
 ### Skills Learned
 
 -Wireless network protocols (WPA2/WPA3)
+
 -Packet analysis and interception
+
 -Ethical hacking principles and legal considerations
+
 -Network monitoring and defense strategies
+
 -Incident response planning
 
 ### Tools Used
